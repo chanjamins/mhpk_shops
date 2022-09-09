@@ -14,5 +14,8 @@
         <module>puki-order</module>
         <module>puki-ware</module>
         <module>puki-product</module>
+        <module>puki-common</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
     </modules>
 </project>
