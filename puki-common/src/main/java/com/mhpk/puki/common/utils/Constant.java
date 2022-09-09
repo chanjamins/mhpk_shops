@@ -8,9 +8,9 @@
 
 package com.mhpk.puki.common.utils;
 
-import io.renren.common.validator.group.AliyunGroup;
-import io.renren.common.validator.group.QcloudGroup;
-import io.renren.common.validator.group.QiniuGroup;
+import com.mhpk.puki.common.validator.group.AliyunGroup;
+import com.mhpk.puki.common.validator.group.QcloudGroup;
+import com.mhpk.puki.common.validator.group.QiniuGroup;
 
 import java.util.Optional;
 import java.util.stream.Stream;
